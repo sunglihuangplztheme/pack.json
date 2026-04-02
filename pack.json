@@ -1,0 +1,9 @@
+{
+  "name": "Patrick Hand",
+  "fonts": [
+    {
+      "name": "PatrickHand-Regular",
+      "file": "https://github.com/google/fonts/raw/main/ofl/patrickhand/PatrickHand-Regular.ttf"
+    }
+  ]
+}
