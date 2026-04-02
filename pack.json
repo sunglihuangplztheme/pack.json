@@ -1,10 +1,18 @@
 {
-  "name": "Patrick Hand",
+  "spec": 1,
   "fonts": [
     {
-      "weight": 400,
-      "style": "normal",
-      "url": "https://fonts.gstatic.com/s/patrickhand/v21/LDI1apSQOAYtSuYWp8ZhfYe8XsLLcA.woff2"
+      "id": "patrick-hand",
+      "name": "Patrick Hand",
+      "family": "Patrick Hand",
+      "category": "handwriting",
+      "fonts": [
+        {
+          "weight": 400,
+          "style": "normal",
+          "src": "https://fonts.gstatic.com/s/patrickhand/v21/LDI1apSQOAYtSuYWp8ZhfYe8XsLLcA.woff2"
+        }
+      ]
     }
   ]
 }
