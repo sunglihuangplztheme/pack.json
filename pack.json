@@ -1,10 +1,10 @@
 {
-  "spec": 1,
   "name": "Patrick Hand",
   "fonts": [
     {
-      "name": "PatrickHand-Regular",
-      "file": "https://github.com/google/fonts/raw/main/ofl/patrickhand/PatrickHand-Regular.ttf"
+      "weight": 400,
+      "style": "normal",
+      "url": "https://fonts.gstatic.com/s/patrickhand/v21/LDI1apSQOAYtSuYWp8ZhfYe8XsLLcA.woff2"
     }
   ]
 }
